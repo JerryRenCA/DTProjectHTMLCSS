@@ -47,3 +47,20 @@ ul{
     list-style-type: none;
 }
 /* ---------- /Variable -----------*/
+
+/* ---------- Global classes ------------- */
+.text-dark{
+    color: var(--text-dark);
+}
+.text-light{
+    color: var(--text-light);
+}
+.text-gray{
+    color: var(--text-gray);
+}
+.text-red{
+    color: var(--text-red);
+}.bg-gradient{
+    color: var(--bg-gradient);
+}
+/* ---------- /Global classes ------------- */
